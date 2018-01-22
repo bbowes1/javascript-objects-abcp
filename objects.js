@@ -10,6 +10,6 @@ function updateplaylist (playlist, artistName, songTitle){
   
 }
 function removeFromPlaylist (playlist,artistName ){
-  delete playlist{Slowdive}
-  return playlist
+  //delete playlist{Slowdive}
+ // return playlist
 }
