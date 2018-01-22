@@ -1,6 +1,6 @@
 var playlist = { 
   Slowdive:'Alison', 
-  MY Bloody Valentine:'Sometimes'
+  'MY Bloody Valentine':'Sometimes'
   
 };
 
